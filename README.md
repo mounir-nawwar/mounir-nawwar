@@ -32,7 +32,18 @@ CS graduate from LAU Beirut. Interned at EY Riyadh (Technology Consulting). Free
 
 ---
 
-### ⛓️ [BlockChain Project](https://github.com/mounir-nawwar/BlockChainProject)
+### 🌾 [Harvest Havoc](https://github.com/mounir-nawwar/HARVEST-HAVOC)
+**2D top-down wave survival game — 107/100 (CSC 458 Game Programming)**  
+`C#` `Unity` `ScriptableObjects` `Object Pooling` `State Machines`
+
+- Sole architect and tech lead: designed full project structure, all 5 ScriptableObject types, generic object pooling system, wave spawner, and scene controller
+- Implemented data-driven design with zero hardcoded values — all enemy/player stats via SO assets
+- 4 levels + boss fight with 3 scripted phase transitions, JSON save/load system, full HUD and menus
+- Published on [itch.io](https://mounirnawwar.itch.io/harvest-havoc)
+
+---
+
+### 🔐 [BlockChain Project](https://github.com/mounir-nawwar/BlockChainProject)
 **Java-based blockchain from scratch**  
 `Java`
 
@@ -44,8 +55,9 @@ CS graduate from LAU Beirut. Interned at EY Riyadh (Technology Consulting). Free
 
 ## 🛠️ Stack
 
-**Backend:** Node.js · Express.js · TypeScript · Java · REST APIs  
+**Backend:** Node.js · Express.js · TypeScript · Java · C# · REST APIs  
 **Frontend:** React 19 · Vite · Tailwind CSS · HTML/CSS  
+**Game Dev:** Unity · C# · ScriptableObjects · Object Pooling · State Machines  
 **Databases:** PostgreSQL · MongoDB · MySQL  
 **Cloud & Infra:** Google Cloud Run · Firebase · Docker · Docker Compose · Oracle Cloud · Cloudflare  
 **Security:** AES-256-GCM · Shamir's Secret Sharing · JWT · bcrypt · timing-attack prevention  
